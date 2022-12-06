@@ -7,8 +7,8 @@ http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
 #EXTINF:-1 ,欢笑剧场
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
-#EXTINF:-1 ,盗墓方法论
-http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
+#EXTINF:-1 ,东森电影台
+http://120.84.96.55:808/hls/32/index.m3u8
 #EXTINF:-1 ,CCTV6电影
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/624878396
 #EXTINF:-1 ,CCTV8电视剧
@@ -31,7 +31,7 @@ http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
 #EXTINF:-1 ,咪咕暑期剧场
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
-#EXTINF:-1 ,黄金剧场
+#EXTINF:-1 ,黄金剧
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
 #EXTINF:-1 ,热剧联播
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613
@@ -425,8 +425,6 @@ http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 group-title="== 未分组 ==",澳视卫星
 http://61.244.22.4/ch3/ch3.live/index.m3u8
-#EXTINF:-1 group-title="== 未分组 ==",澳門3台
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 #EXTINF:-1 group-title="== 未分组 ==",CCTV5
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 #EXTINF:-1 group-title="== 未分组 ==",CCTV-4K
@@ -439,8 +437,6 @@ http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227749/index.m3u8
 http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227813/index.m3u8
 #EXTINF:-1 group-title="== 未分组 ==",广东珠江4K
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,东森电影台
-http://120.84.96.55:808/hls/32/index.m3u8
 #EXTINF:-1 ,东森美洲卫视
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 ,东森电影
