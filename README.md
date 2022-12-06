@@ -96,6 +96,7 @@
   - [包括完整内容所有已知频道.m3u](https://iptv-org.github.io/iptv/index.nsfw.m3u)
 
 全国可用直播源：
+- [个人播放源](https://github.com/Autovy/Tvlist-awesome-m3u-m3u8/blob/master/m3u/%E6%88%91%E7%9A%84%E6%92%AD%E6%94%BE%E6%BA%90.m3u8);
 - [国内电视台直播源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/国内电视台2022-11.m3u) - (2022年11月更新 CCTV、各大卫视、上千个地方台)
 - [CCTV+卫视-上海源.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视-上海联通源.m3u) 
 - [CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学校园网.m3u8](https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/CCTV+卫视+北京+凤凰+探索+星空卫视-北京邮电大学-校园网.m3u) 
